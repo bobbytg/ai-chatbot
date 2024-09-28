@@ -1,8 +1,8 @@
 import streamlit as st 
 import google.generativeai as genai
 
-st.title("🐧 BB chatbot app")
-st.subheader("Conversation")
+st.title("🐧 Coffee Exprt chatbot app")
+st.subheader("Coffee Conversation")
 
 # Capture Gemini API Key 
 gemini_api_key = st.text_input("Gemini API Key: ", placeholder="Type your API Key here...", type="password") 
