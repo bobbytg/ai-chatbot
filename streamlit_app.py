@@ -1,7 +1,7 @@
 import streamlit as st 
 import google.generativeai as genai
 
-st.title("🐧 Coffee Exprt chatbot app")
+st.title("🐧 BB Coffee Expert chatbot app")
 st.subheader("Coffee Conversation")
 
 # Capture Gemini API Key 
